@@ -1,0 +1,7 @@
+/orders  /orders.html  200
+/cart    /cart.html    200
+/checkout /checkout.html 200
+/wishlist /wishlist.html 200
+/account  /account.html 200
+/search   /search.html  200
+/*       /404.html     404
